@@ -2,7 +2,6 @@ import React from 'react'
 import "./EmployeeTitles.css"
 
 export default function EmployeeTitles(props) {
-
     return (
         <div  className="table-responsive">
             <table className="table">
@@ -19,4 +18,4 @@ export default function EmployeeTitles(props) {
             </table>
         </div>
     )
-}
+};

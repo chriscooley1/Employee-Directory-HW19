@@ -17,4 +17,4 @@ export default function TableHeading(props) {
             </table>
         </div>
     )
-}
+};
