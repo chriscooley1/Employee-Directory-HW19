@@ -8,6 +8,7 @@ export default function EmployeeTitles(props) {
                 <tbody>
                     <tr>
                         <th scope="row">{props.id}</th>
+                        {/* eslint-disable-next-line */}
                         <td><img src={props.image}></img></td>
                         <td>{props.name}</td>
                         <td>{props.phone}</td>

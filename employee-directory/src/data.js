@@ -11,7 +11,7 @@ import imageTen from "./Components/Images/ten.jpg"
 import imageEleven from "./Components/Images/eleven.jpg"
 import imageTweleve from "./Components/Images/tweleve.jpg"
 
-
+// eslint-disable-next-line
 export default[
     {
       "id": 1,
@@ -39,18 +39,18 @@ export default[
     },
     {
       "id": 4,
-      "name": "Eileen Sideways",
+      "name": "Perry Scope",
       "image": imageFour,
-      "phone": "4336979834",
-      "email": "Eileen@gmail.com",
+      "phone": "3758909124",
+      "email": "PerryScope@gmail.com",
       "DOB": "19/04/1959"
     },
     {
       "id": 5,
-      "name": "Rita Book",
+      "name": "Willie Makit",
       "image": imageFive,
-      "phone": "7894327985",
-      "email": "RitaBook@gmail.com",
+      "phone": "3972589105",
+      "email": "WillieMakit@gmail.com",
       "DOB": "15/07/1969"
     },
     {
@@ -71,18 +71,18 @@ export default[
     },
     {
       "id": 8,
-      "name": "Perry Scope",
+      "name": "Eileen Sideways",
       "image": imageEight,
-      "phone": "3758909124",
-      "email": "PerryScope@gmail.com",
+      "phone": "4336979834",
+      "email": "Eileen@gmail.com",
       "DOB": "13/07/199"
     },
     {
       "id": 9,
-      "name": "Willie Makit",
+      "name": "Rita Book",
       "image": imageNine,
-      "phone": "3972589105",
-      "email": "WillieMakit@gmail.com",
+      "phone": "7894327985",
+      "email": "RitaBook@gmail.com",
       "DOB": "19/10/2001"
     },
     {
@@ -95,18 +95,18 @@ export default[
     },
     {
       "id": 11,
-      "name": "Stan Dupp",
+      "name": "Pat Thettick",
       "image": imageEleven,
-      "phone": "1759828905",
-      "email": "StanDupp@gmail.com",
+      "phone": "793934325",
+      "email": "PatThettick@gmail.com",
       "DOB": "14/07/1960"
     },
     {
       "id": 12,
-      "name": "Don Messwidme",
+      "name": "Emma Grant",
       "image": imageTweleve,
-      "phone": "7892348903",
-      "email": "Messwidme@gmail.com",
+      "phone": "1478933522",
+      "email": "EmmaGrant@gmail.com",
       "DOB": "03/09/1980"
     },
     {
@@ -119,40 +119,40 @@ export default[
     },
     {
       "id": 14,
-      "name": "Claude Strophobia",
-      "image": imageTwo,
-      "phone": "7291439032",
-      "email": "Strophobia@gmail.com",
+      "name": "Stan Dupp",
+      "image": imageFour,
+      "phone": "1759828905",
+      "email": "StanDupp@gmail.com",
       "DOB": "10/08/1959"
     },
     {
       "id": 15,
       "name": "Hugo First",
-      "image": imageThree,
+      "image": imageFive,
       "phone": "7829793493",
       "email": "HugoFirst@gmail.com",
       "DOB": "1/05/1949"
     },
     {
       "id": 16,
-      "name": "Pat Thettick",
-      "image": imageFour,
-      "phone": "793934325",
-      "email": "PatThettick@gmail.com",
+      "name": "Claude Strophobia",
+      "image": imageTen,
+      "phone": "7291439032",
+      "email": "Strophobia@gmail.com",
       "DOB": "19/04/1959"
     },
     {
       "id": 17,
-      "name": "Emma Grant",
-      "image": imageFive,
-      "phone": "1478933522",
-      "email": "EmmaGrant@gmail.com",
+      "name": "Don Messwidme",
+      "image": imageOne,
+      "phone": "7892348903",
+      "email": "Messwidme@gmail.com",
       "DOB": "15/07/1969"
     },
     {
       "id": 18,
       "name": "Wes Yabinlatelee",
-      "image": imageSix,
+      "image": imageFour,
       "phone": "9824398324",
       "email": "WesYabin@gmail.com",
       "DOB": "29/08/1979"
@@ -160,7 +160,7 @@ export default[
     {
       "id": 19,
       "name": "Lee Nonmi",
-      "image": imageSeven,
+      "image": imageFive,
       "phone": "7289323285",
       "email": "LeeNonmi@gmail.com",
       "DOB": "12/01/1989"
@@ -168,7 +168,7 @@ export default[
     {
       "id": 20,
       "name": "Polly Ester Undawair",
-      "image": imageEight,
+      "image": imageTwo,
       "phone": "7893245733",
       "email": "Undawair@gmail.com",
       "DOB": "13/07/1992"
@@ -176,7 +176,7 @@ export default[
     {
       "id": 21,
       "name": "Dee Mandingboss",
-      "image": imageNine,
+      "image": imageThree,
       "phone": "7589278943",
       "email": "DeeBoss@gmail.com",
       "DOB": "19/10/2001"
@@ -184,7 +184,7 @@ export default[
     {
       "id": 22,
       "name": "Fran Tick",
-      "image": imageTen,
+      "image": imageSix,
       "phone": "3849759832",
       "email": "FranTick@gmail.com",
       "DOB": "25/02/1995"
@@ -192,7 +192,7 @@ export default[
     {
       "id": 23,
       "name": "Carmen Goh",
-      "image": imageEleven,
+      "image": imageSeven,
       "phone": "3784979235",
       "email": "CarmenGoh@gmail.com",
       "DOB": "14/07/1960"
@@ -200,7 +200,7 @@ export default[
     {
       "id": 24,
       "name": "Ivan Itchinos",
-      "image": imageTweleve,
+      "image": imageTen,
       "phone": "7342894339",
       "email": "Itchinos@gmail.com",
       "DOB": "03/09/1980"
