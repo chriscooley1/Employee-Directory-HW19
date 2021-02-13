@@ -19,3 +19,7 @@ The user should be able to:
   * Filter the users by at least one property.
 
 ![](images/Employee-Directory.png)
+
+# Deployment Link
+
+https://chriscooley1.github.io/Employee-Directory-HW19/
